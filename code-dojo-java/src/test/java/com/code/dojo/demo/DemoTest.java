@@ -1,4 +1,4 @@
-package com.code.dojo;
+package com.code.dojo.demo;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -6,6 +6,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.runners.MockitoJUnitRunner;
+
+import com.code.dojo.demo.Demo;
 
 @RunWith(MockitoJUnitRunner.class)
 public class DemoTest {

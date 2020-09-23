@@ -1,4 +1,4 @@
-package com.code.dojo;
+package com.code.dojo.demo;
 
 public class Demo {
 

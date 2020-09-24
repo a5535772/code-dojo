@@ -88,7 +88,7 @@ comments : 第一轮没有规则，第二轮加入了“自证清白”的约束
 time of session  : 10min
 num. of rounds : 2
 best of the best : 豆豆、crystal吴
-comments : 第一轮没有规则,10min ；第二轮加入了“语言大师”的约束
+comments : 第一轮没有规则,10min ；第二轮加入了“语言大师”的约束，时间15min
 ```
 
 

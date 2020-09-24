@@ -86,9 +86,9 @@ comments : 第一轮没有规则，第二轮加入了“自证清白”的约束
 
 ```yaml
 time of session  : 10min
-num. of rounds : 3
-best of the best : 
-comments : 
+num. of rounds : 2
+best of the best : 豆豆、crystal吴
+comments : 第一轮没有规则,10min ；第二轮加入了“语言大师”的约束
 ```
 
 

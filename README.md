@@ -20,7 +20,7 @@
 
 1. 签到
 2. 开发环境准备，如果你使用java，ios，android，可以到 https://github.com/a5535772/code-dojo 下载简易环境
-3. 进行分组、取个组名、介绍结对编程；记住尽量不要重复组队
+3. 进行分组、介绍结对编程；记住尽量不要重复组队
 
 
 
@@ -71,25 +71,46 @@
 
 # 活动记录
 
-## 0:Fizz Buzz  2020/09/18 
+## 0.Fizz Buzz  2020/09/18
 
 ```yaml
 time of session  : 10min
 num. of rounds : 2
-best of the best : 小黑、lF ??
-comments : 第一轮没有规则，第二轮加入了“自证清白”的约束
+best of the best : 小黑、小芳
+rule s1 : 没有规则,10min
+rule s2 : 自证清白,10min
 ```
 
 
 
-## 1:Best Time to Buy and Sell Stock  2020/09/24  
+## 1.Best Time to Buy and Sell Stock  2020/09/24
 
 ```yaml
 time of session  : 10min
 num. of rounds : 2
-best of the best : 豆豆、crystal吴
-comments : 第一轮没有规则,10min ；第二轮加入了“语言大师”的约束，时间15min
+best of the best : 豆豆、crystal吴 (自解释的代码)
+rule s1 : 没有规则,10min
+rule s2 : 采用“语言大师”的约束，15min
+purpose : 代码的自解释，了解结对编程
 ```
+
+
+
+## 2.Best Time to Buy and Sell Stock II  2020/10/15
+
+```yaml
+time of session  : 30min
+num. of rounds : 2
+best of the best : WH、LX (分享纯键盘编程心得)
+rule s1 : 采用“绝代双骄”,30min,剧透算法,关注合作，公布贪心算法答案
+rule s2 : 采用“武器大师”的约束，时间30min,小鱼儿使用键盘，花无缺使用百度帮助小鱼儿，关注纯键盘操作
+purpose : 更快的编程效率，关注纯键盘操作
+IDEA 快捷键 : https://www.jianshu.com/p/6d752d85cd35
+Eclipse 快捷键 : https://www.jianshu.com/p/dd05065d4d18
+参考资料 : https://mp.weixin.qq.com/s/jFarfOH2YVhxYLRrAL4ibg
+```
+
+
 
 
 

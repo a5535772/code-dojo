@@ -127,10 +127,21 @@ purpose : 体验重构，讨论什么是烂代码，什么又是小伙伴重构�
 
 
 
-## 4.重构 | 2020/11/05
+## 4.Order Receipt Baseline | 重构 | 2020/11/05
 
 ```yaml
-TBD
+time of session  : 30min
+num. of rounds : 2
+best of the best : TODO
+rule s1 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
+rule s2 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
+purpose : 学习重构，通过练习完成代码重构
+议程 : 重构资料讲解，
+源码参考1 : https://github.com/wubin28/order-receipt-baseline
+源码参考2 : https://github.com/seabornlee/order-receipt-baseline
+答案参考 : https://github.com/seabornlee/order-receipt-baseline/tree/answer
+
+
 ```
 
 

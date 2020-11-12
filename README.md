@@ -152,8 +152,8 @@ num. of rounds : 2
 best of the best : NA
 rule s1 : TODO
 rule s2 : TODO
-purpose : 学习重构，通过练习完成代码重构，了解 策略模式
-源码参考 : https://github.com/seabornlee/gilded-rose-refactoring-to-patterns-baseline
+purpose : 学习重构，通过练习完成代码重构，了解策略模式
+源码参考 : https://github.com/emilybache/GildedRose-Refactoring-Kata
 参考答案 : https://github.com/wubin28/gildedrose-refactoring-kata-java
 参考文档 : https://www.jianshu.com/p/2c8e46001f61
 ```
@@ -211,6 +211,6 @@ rule s1 : 没有规则,15min
 
 
 [四巨头23种设计模式的意图]: https://www.jianshu.com/p/da8712663542
-
-
+[Bobby Johnson(教练手册源码提供者)]: https://github.com/NotMyself
+[Emily Bache]: https://github.com/emilybache
 

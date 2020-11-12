@@ -1,4 +1,4 @@
-# gildedrose-refactoring-kata-java-baseline
+# Gilded Rose
 
 ## 需求
 

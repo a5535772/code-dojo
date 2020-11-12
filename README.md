@@ -71,7 +71,7 @@
 
 
 
-# 活动记录
+# 主线活动记录
 
 ## 1.Fizz Buzz | 2020/09/18
 
@@ -114,7 +114,22 @@ Eclipse 快捷键 : https://www.jianshu.com/p/dd05065d4d18
 
 
 
-## 4.Order Receipt Baseline | 重构 | 2020/11/05
+## X.Shit Code 01 | 重构体验 | 2020/10/22
+
+```yaml
+time of session  : 40min
+num. of rounds : 1
+best of the best : NA
+rule s1 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
+purpose : 使用真实的怀味道来体验重构，讨论什么是烂代码，什么又是小伙伴重构后认为的好代码。
+课后练习 : 教练与组员结对完成一些生产代码的重构。
+遗憾 : 本次课程很多同学是第一次参加，导致对于单元测试、代码怀味道、快捷键的认识不足；
+垃圾代码的书写准则 : https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
+```
+
+
+
+## 4.Order Receipt | 重构 | 2020/11/05
 
 ```yaml
 time of session  : 40min
@@ -129,7 +144,7 @@ purpose : 学习重构，通过练习完成代码重构
 
 
 
-## 5.Gilded Rose Refactoring To Patterns Baseline| 重构 | 2020/??/??
+## 5.Gilded Rose | 重构 | 2020/??/??
 
 ```yaml
 time of session  : 30min
@@ -137,24 +152,10 @@ num. of rounds : 2
 best of the best : NA
 rule s1 : TODO
 rule s2 : TODO
-purpose : 学习重构，通过练习完成代码重构
-源码参考 : https://github.com/wubin28/gildedrose-refactoring-kata-java-baseline
+purpose : 学习重构，通过练习完成代码重构，了解 策略模式
+源码参考 : https://github.com/seabornlee/gilded-rose-refactoring-to-patterns-baseline
 参考答案 : https://github.com/wubin28/gildedrose-refactoring-kata-java
-```
-
-
-
-## 6.Shit Code 01 | 2020/11/22
-
-```yaml
-time of session  : 40min
-num. of rounds : 1
-best of the best : NA
-rule s1 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
-purpose : 使用真实的怀味道来体验重构，讨论什么是烂代码，什么又是小伙伴重构后认为的好代码。
-课后练习 : 教练与组员结对完成一些生产代码的重构。
-遗憾 : 本次课程很多同学是第一次参加，导致对于单元测试、代码怀味道、快捷键的认识不足；
-垃圾代码的书写准则 : https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
+参考文档 : https://www.jianshu.com/p/2c8e46001f61
 ```
 
 
@@ -179,7 +180,7 @@ rule s1 : 没有规则,15min
 ## Best Time to Buy and Sell Stock | 2020/11/04
 
 ```yaml
-TBD
+参考活动记录
 ```
 
 
@@ -200,4 +201,16 @@ TBD
 ## 2020/09/24
 
 感谢财哥对原生框架的支持，感谢潇洒哥、Ady Cheng分别提供了code-dojo-android、code-dojo-ios的基础框架
+
+
+
+
+
+# 参考文档
+
+
+
+[四巨头23种设计模式的意图]: https://www.jianshu.com/p/da8712663542
+
+
 

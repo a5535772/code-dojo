@@ -1,6 +1,10 @@
-package com.code.dojo.demo.refactoring.order.receipt.baseline;
+package com.code.dojo.kata.order_receipt.baseline;
 
 import org.junit.Test;
+
+import com.code.dojo.kata.order_receipt.baseline.LineItem;
+import com.code.dojo.kata.order_receipt.baseline.Order;
+import com.code.dojo.kata.order_receipt.baseline.OrderReceipt;
 
 import java.util.ArrayList;
 

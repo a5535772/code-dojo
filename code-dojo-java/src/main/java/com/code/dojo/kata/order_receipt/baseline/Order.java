@@ -1,4 +1,4 @@
-package com.code.dojo.demo.refactoring.order.receipt.baseline;
+package com.code.dojo.kata.order_receipt.baseline;
 
 import java.util.List;
 

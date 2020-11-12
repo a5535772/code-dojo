@@ -14,6 +14,8 @@
 
 
 
+
+
 # 活动流程
 
 ## 开场
@@ -71,7 +73,7 @@
 
 # 活动记录
 
-## 0.Fizz Buzz | 2020/09/18
+## 1.Fizz Buzz | 2020/09/18
 
 ```yaml
 time of session  : 10min
@@ -83,7 +85,7 @@ rule s2 : 自证清白,10min
 
 
 
-## 1.Best Time to Buy and Sell Stock | 2020/09/24
+## 2.Best Time to Buy and Sell Stock | 2020/09/24
 
 ```yaml
 time of session  : 10min
@@ -96,7 +98,7 @@ purpose : 代码的自解释，了解结对编程
 
 
 
-## 2.Best Time to Buy and Sell Stock II | 2020/10/15
+## 3.Best Time to Buy and Sell Stock II | 2020/10/15
 
 ```yaml
 time of session  : 30min
@@ -112,36 +114,47 @@ Eclipse 快捷键 : https://www.jianshu.com/p/dd05065d4d18
 
 
 
-## 3.Shit Code 01 | 2020/11/22
+## 4.Order Receipt Baseline | 重构 | 2020/11/05
+
+```yaml
+time of session  : 40min
+num. of rounds : 2
+best of the best : NA
+rule s1 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。
+rule s2 : 由主持人演示重构的技巧和思路
+purpose : 学习重构，通过练习完成代码重构
+源码参考 : https://github.com/wubin28/order-receipt-baseline
+答案参考 : https://github.com/seabornlee/order-receipt-baseline/tree/answer
+```
+
+
+
+## 5.Gilded Rose Refactoring To Patterns Baseline| 重构 | 2020/??/??
+
+```yaml
+time of session  : 30min
+num. of rounds : 2
+best of the best : NA
+rule s1 : TODO
+rule s2 : TODO
+purpose : 学习重构，通过练习完成代码重构
+源码参考 : https://github.com/wubin28/gildedrose-refactoring-kata-java-baseline
+参考答案 : https://github.com/wubin28/gildedrose-refactoring-kata-java
+```
+
+
+
+## 6.Shit Code 01 | 2020/11/22
 
 ```yaml
 time of session  : 40min
 num. of rounds : 1
 best of the best : NA
 rule s1 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
-purpose : 体验重构，讨论什么是烂代码，什么又是小伙伴重构后认为的好代码。
+purpose : 使用真实的怀味道来体验重构，讨论什么是烂代码，什么又是小伙伴重构后认为的好代码。
 课后练习 : 教练与组员结对完成一些生产代码的重构。
 遗憾 : 本次课程很多同学是第一次参加，导致对于单元测试、代码怀味道、快捷键的认识不足；
 垃圾代码的书写准则 : https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md
-```
-
-
-
-## 4.Order Receipt Baseline | 重构 | 2020/11/05
-
-```yaml
-time of session  : 30min
-num. of rounds : 2
-best of the best : TODO
-rule s1 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
-rule s2 : 重构BindedCarApiImpl,没有规则，对于重构的代码做展示。并由主持人现场进行重构的演示。
-purpose : 学习重构，通过练习完成代码重构
-议程 : 重构资料讲解，
-源码参考1 : https://github.com/wubin28/order-receipt-baseline
-源码参考2 : https://github.com/seabornlee/order-receipt-baseline
-答案参考 : https://github.com/seabornlee/order-receipt-baseline/tree/answer
-
-
 ```
 
 
@@ -168,6 +181,17 @@ rule s1 : 没有规则,15min
 ```yaml
 TBD
 ```
+
+
+
+
+
+
+
+# CLASH OF CODE
+
+时间：每日中午零散时间
+地点：登陆www.codingame.com，体验在线来一把的爽快编程，你可以加leo_zhang为好友，加入上汽内部的在线来一把。
 
 
 

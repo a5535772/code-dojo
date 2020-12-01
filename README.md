@@ -156,6 +156,7 @@ purpose : 学习重构，通过练习完成代码重构，了解策略模式
 源码参考 : https://github.com/emilybache/GildedRose-Refactoring-Kata
 参考答案 : https://github.com/wubin28/gildedrose-refactoring-kata-java
 参考文档 : https://www.jianshu.com/p/2c8e46001f61
+参考文档 : https://www.jianshu.com/p/866cf440ad3e
 ```
 
 

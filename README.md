@@ -144,14 +144,13 @@ purpose : 学习重构，通过练习完成代码重构
 
 
 
-## 5.Gilded Rose | 重构 | 2020/??/??
+## 5.Gilded Rose | 重构 | 2020/11/26
 
 ```yaml
-time of session  : 30min
+time of session  : 2h
 num. of rounds : 2
 best of the best : NA
-rule s1 : TODO
-rule s2 : TODO
+rule s1 : 武器大师 & 自证清白
 purpose : 学习重构，通过练习完成代码重构，了解策略模式
 源码参考 : https://github.com/emilybache/GildedRose-Refactoring-Kata
 参考答案 : https://github.com/wubin28/gildedrose-refactoring-kata-java
@@ -204,6 +203,10 @@ rule s1 : 没有规则,15min
 感谢财哥对原生框架的支持，感谢潇洒哥、Ady Cheng分别提供了code-dojo-android、code-dojo-ios的基础框架
 
 
+
+## 2020/12/22
+
+代码道场得到了组织的认可，从个人团队横跨整个公司后端团队，后续会产出更多经验和工作中的任务
 
 
 

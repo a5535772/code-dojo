@@ -1,14 +1,13 @@
 package com.code.dojo.demo.shitcode01.service;
 
 import java.util.List;
-
-import com.code.dojo.demo.shitcode01.pojo.BindInfo;
+import com.code.dojo.demo.shitcode01.service.pojo.BindInfoPojo;
 
 public interface IBindCarService {
 
-	BindInfo findVin(String vin);
+    BindInfoPojo findVin(String vin);
 
-	List<BindInfo> findBindRecordBy(String vin, String userId, Integer brandCode);
+    List<BindInfoPojo> findBindRecordBy(String vin, Long userId, Integer brandCode);
 
-	int saveWeakBind(BindInfo weakBinded);
+    int saveWeakBind(BindInfoPojo weakBinded);
 }

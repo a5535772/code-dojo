@@ -1,4 +1,4 @@
-## best-time-to-buy-and-sell-stock
+# best-time-to-buy-and-sell-stock
 
 ## 需求
 
@@ -7,10 +7,6 @@
 如果你最多只允许完成一笔交易（即买入和卖出一支股票一次），设计一个算法来计算你所能获取的最大利润。
 
 注意：你不能在买入股票前卖出股票。
-
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 ## **示例：**
 
@@ -26,9 +22,9 @@
 输出: 0
 解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
 
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 ```
 
+## 来源：力扣（LeetCode）
 
+链接：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。

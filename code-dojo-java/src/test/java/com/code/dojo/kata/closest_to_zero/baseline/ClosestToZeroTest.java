@@ -5,7 +5,6 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.runners.MockitoJUnitRunner;
-import com.code.dojo.demo.shitcode01.common.ApiException;
 
 @RunWith(MockitoJUnitRunner.class)
 public class ClosestToZeroTest {
@@ -15,7 +14,7 @@ public class ClosestToZeroTest {
     ClosestToZero sut;
 
     @Test()
-    public void test_closestToZero_when_zero_exists_return_zero() throws ApiException {
+    public void test_closestToZero_when_zero_exists_return_zero() {
         /** given */
         int[] sourceNumbers = {-2, -1, 0, 1, 2};
         /** when */
